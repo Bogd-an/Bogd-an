@@ -6,16 +6,14 @@ Motivated junior engineer and developer with a strong foundation in programming,
 ## 💻 Technical Skills  
 
 **Programming:**  
-
-- Strong Junior: Flask, SQLAlchemy, PostgreSQL, Jupyter Notebook  
-- Junior: STM32, Atmega  
-- Trainee: WebSockets, REST API, Swagger, MongoDB  
+- Strong Junior: Py (Flask, SQLAlchemy, PostgreSQL, Jupyter Notebook)
+- Junior: CPP (STM32, Atmega)
+- Trainee: JS (WebSockets, REST API, Swagger, MongoDB) 
 
 **Engineering & Tools:**  
 - Robotics & embedded systems  
 - PCB design: KiCad, EasyEDA  
 - CAD/CAE: SolidWorks, MATLAB  
-
 
 ## 🌍 Languages
 - 🇬🇧 English — B1  
@@ -25,8 +23,6 @@ Motivated junior engineer and developer with a strong foundation in programming,
 - Open-source hardware & software  
 - Robotics and embedded systems  
 - PCB design & applied electronics  
-- Signal processing and automation systems  
-
 
 ## 📫 Contacts  
 - 📧 Email: [pogorielov.bogdan@gmail.com](mailto:pogorielov.bogdan@gmail.com) 
