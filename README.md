@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Bohdan Pohorielov  
 
-<!--
-**Bogd-an/Bogd-an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Summary
+Motivated junior engineer and developer with a strong foundation in programming, embedded systems, and electronics. Interested in open-source hardware/software projects, robotics, and system integration.  
 
-Here are some ideas to get you started:
+## 💻 Technical Skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming:**  
+
+- Strong Junior: Flask, SQLAlchemy, PostgreSQL, Jupyter Notebook  
+- Junior: STM32, Atmega  
+- Trainee: WebSockets, REST API, Swagger, MongoDB  
+
+**Engineering & Tools:**  
+- Robotics & embedded systems  
+- PCB design: KiCad, EasyEDA  
+- CAD/CAE: SolidWorks, MATLAB  
+
+
+## 🌍 Languages
+- 🇬🇧 English — B1  
+- 🇵🇱 Polish — A2  
+
+## 🚀 Interests
+- Open-source hardware & software  
+- Robotics and embedded systems  
+- PCB design & applied electronics  
+- Signal processing and automation systems  
+
+
+## 📫 Contacts  
+- 📧 Email: [pogorielov.bogdan@gmail.com](mailto:pogorielov.bogdan@gmail.com) 
+- 💼 LinkedIn: [github.com/Bogd-an](https://github.com/Bogd-an)  
+
